@@ -11,4 +11,4 @@ Changes in upcoming release: 0.2.7-beta
 
 0.2.6-beta
 - lighting fixed in Apartments
-- New location: Valenti Restaurant
+- New location: Valenti Restaurant (coc CryssInteriorsValentiRestaurant)
