@@ -1,12 +1,14 @@
 Mod description:
 https://therealcryss.github.io/cryss-interiors.html
 
+All DLC required.
+
 
 Changelog:
 
 0.2.7-beta
 - removed FROST dependancy I accidentally triggered by just opening up some FROST cells and viewing them
-- a lot of fixes regarding lighting/light leaks (Thanks to Evelin again!)1
+- a lot of fixes regarding lighting/light leaks (Thanks to Evelin again!)
 
 0.2.6-beta
 - lighting fixed in Apartments
